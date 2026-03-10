@@ -69,4 +69,38 @@ job:
 
 ## 6. 최종 산출물
 
-(8단계 완료 후 추가)
+### 제안 사이트
+- URL: https://blue-verse.github.io/proposal-crypto-arb-monitor/
+- 저장소: https://github.com/Blue-Verse/proposal-crypto-arb-monitor
+
+### 위시켓 폼 입력값
+
+**지원 금액**: 2,250,000원
+
+**지원 기간**: 14일
+
+**클라이언트 질문 답변**: (질문 없음)
+
+**지원 내용**:
+
+안녕하세요, 블루버스입니다.
+
+**코인 국내외 거래소 차익 거래 프로그램 개발** 프로젝트에 지원합니다.
+
+**왜 블루버스인가?**
+- Python 기반 금융 플랫폼(P2P Funding)에서 15개 이상 외부 API를 실시간 연동한 경험이 있습니다. 5개 거래소 Websocket 병렬 처리에 직접 적용 가능합니다.
+- Web3/DeFi 프로젝트(Life3)에서 토큰 스왑·이벤트 드리븐 아키텍처를 구축했습니다. 크립토 도메인과 실시간 데이터 처리 모두에 깊은 이해를 갖추고 있습니다.
+- NFT-DeFi 프로젝트에서 온체인/오프체인 브릿지 및 빠른 딜리버리(3개월) 경험이 있어 14일 일정 내 안정적 납품이 가능합니다.
+
+**핵심 기술 접근**
+1. asyncio + Adapter Pattern으로 빗썸·업비트·Gate·Binance·Bybit 5개 거래소 Websocket을 안정적으로 병렬 수집
+2. 단순 가격 비교가 아닌, 입출금 상태 + 네트워크 호환성까지 종합 판단하는 실전형 아비트리지 모니터링
+3. 텔레그램 + 소리 알림으로 수익률 기준 초과 시 즉각 알림
+
+상세 제안서를 준비했습니다:
+https://blue-verse.github.io/proposal-crypto-arb-monitor/
+
+**관련 포트폴리오 추천**:
+1. P2P Funding (매칭 85/100) — https://www.wishket.com/partners/p/blueverse1/portfolio/
+2. Life3 (매칭 80/100) — https://www.wishket.com/partners/p/blueverse1/portfolio/
+3. NFT-DeFi (매칭 70/100) — https://www.wishket.com/partners/p/blueverse1/portfolio/
