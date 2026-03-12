@@ -70,7 +70,7 @@ job:
 ## 6. 최종 산출물
 
 ### 제안 사이트
-- URL: https://blue-verse.github.io/proposal-crypto-arb-monitor/
+- URL: https://proposal-crypto-arb-monitor.pages.dev/
 - 저장소: https://github.com/Blue-Verse/proposal-crypto-arb-monitor
 
 ### 위시켓 폼 입력값
@@ -98,7 +98,7 @@ job:
 3. 텔레그램 + 소리 알림으로 수익률 기준 초과 시 즉각 알림
 
 상세 제안서를 준비했습니다:
-https://blue-verse.github.io/proposal-crypto-arb-monitor/
+https://proposal-crypto-arb-monitor.pages.dev/
 
 **관련 포트폴리오 추천**:
 1. P2P Funding (매칭 85/100) — https://www.wishket.com/partners/p/blueverse1/portfolio/
